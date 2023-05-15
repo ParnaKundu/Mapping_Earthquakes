@@ -6,7 +6,7 @@ The purpose of this project is to create an Earthquake Map with relation to the 
 
 The map will have three options for display :-
 
-* The ![Streets View](Earthquake_Challenge/static/images/Street_View.png)
+* The Streets View  ![Streets View](Earthquake_Challenge/static/images/Street_View.png)
 * The [Satellite View](https://github.com/ParnaKundu/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/Satellite_View.png)
 * The [Dark View](https://github.com/ParnaKundu/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/Dark_View.png)
 
