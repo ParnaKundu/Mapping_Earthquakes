@@ -6,8 +6,10 @@ The purpose of this project is to create an Earthquake Map with relation to the 
 
 The map will have three options for display :-
 
-* The Streets View  ![Streets View](Earthquake_Challenge/static/images/Street_View.png)
-* The [Satellite View](https://github.com/ParnaKundu/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/Satellite_View.png)
+* The Streets View  
+  ![Streets View](Earthquake_Challenge/static/images/Street_View.png)
+  
+* The Satellite View ![Satellite View](Earthquake_Challenge/static/images/Satellite_View.png)
 * The [Dark View](https://github.com/ParnaKundu/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/Dark_View.png)
 
 The user is capable of toggling between each of the above types of map. The earthquake data for the last 7 days along with the tectonic maps are overlaid on each map. Each earthquake is represented by a circle marker and the color and size depends on the magnitude of the earthquake. A legend is displayed on the right hand bottom of the map that indicates the corelation between the color and the magnitude of the earthquakes. In addition, a map for all earthquakes greater than 4.5 will be also displayed. 
